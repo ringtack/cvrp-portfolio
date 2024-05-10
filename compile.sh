@@ -5,6 +5,7 @@
 ########################################
 
 # Get submodules
+git submodule update --remote --merge
 git submodule update --init
 
 # Compile in each
