@@ -5,7 +5,7 @@
 ########################################
 
 # Get submodules
-git pull --recurse-submodules
+git submodule update --init
 
 # Compile in each
 cd cvrp && ./compile.sh && cd ../
