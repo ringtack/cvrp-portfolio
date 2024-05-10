@@ -13,4 +13,4 @@ cd cvrp && ./compile.sh && cd ../
 cd cvrp-gen && ./compile.sh && cd ../
 
 # Build wrapper
-go build .
+go build src/main.go

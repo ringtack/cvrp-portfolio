@@ -13,4 +13,4 @@ fi
 input=$1
 
 # run the solver
-./cvrp-portfolio -input "$input"
+./main -input "$input"
