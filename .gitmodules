@@ -1,0 +1,6 @@
+[submodule "cvrp-gen"]
+	path = cvrp-gen
+	url = https://github.com/ringtack/cvrp-gen.git
+[submodule "cvrp"]
+	path = cvrp
+	url = https://github.com/ringtack/cvrp.git
